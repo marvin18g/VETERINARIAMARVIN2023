@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sign in & Sign up Form</title>
-    <link rel="stylesheet" href="http://localhost/MARVINVETERINARIA/estilos/estilos.css" />
+    <link rel="stylesheet" href="http://localhost/MARVINVETERINARIA/VETERINARIAMARVIN2023/estilos/estilos.css" />
     
 </head>
 
@@ -19,8 +19,8 @@
                 <div class="forms-wrap">
                     <form action="login.php" method="post" autocomplete="off" class="sign-in-form">
                         <div class="logo">
-                            <img src="./img/logo.png" alt="easyclass" />
-                            <h4>easyclass</h4>
+                            <img src="./img/gi.png" alt="easyclass" />
+                            <h4>Marvin Galeano</h4>
                             
                         </div>
 
